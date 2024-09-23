@@ -1,0 +1,20 @@
+{
+  "name": "create-plugin-js",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "consola": "latest",
+    "growtopia.js": "latest"
+  },
+  "devDependencies": {
+    "tsup": "latest"
+  }
+}
